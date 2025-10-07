@@ -1,3 +1,4 @@
+![logo](https://github.com/aniketkumar110/aniketkumar110/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">
   WELCOME TO MY PROFILE !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
